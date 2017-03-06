@@ -1,7 +1,7 @@
 
-# React boiler plate
+# React Bootsrap boilerplate
  
-This is my reactjs starting template. It will start you off with react, babel, webpack and the dev-server.
+This is my reactjs starting template. It will start you off with react, babel, webpack, dev-server bootstrap and font awesome.
  
 ## Getting Started 
  
@@ -58,9 +58,11 @@ webpack-dev-server
  
 ## Built With 
  
-* [Reactjs](https://facebook.github.io/react/) - A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES 
-* [babel](https://babeljs.io/) - 
-* [webpack](https://webpack.github.io/) - 
+* [Reactjs](https://facebook.github.io/react/)
+* [babel](https://babeljs.io/)
+* [webpack](https://webpack.github.io/)
+* [bootstrap](http://getbootstrap.com/)
+* [fontawesome](http://fontawesome.io/)
  
  
  
